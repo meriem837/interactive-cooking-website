@@ -10,8 +10,12 @@ Users can explore cooking content, switch between two visual themes, and interac
 
 _Screenshots:_
 
-- ![Dark Mode](screenshots/website-dark.png)
-- ![Light Mode](screenshots/website-light.png)
+<table align="center">
+  <tr>
+    <td><img src="screenshots/website-dark.png" width="250"></td>
+    <td><img src="screenshots/website-light.png" width="250"></td>
+  </tr>
+</table>
 
 ---
 
