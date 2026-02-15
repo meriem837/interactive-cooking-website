@@ -12,8 +12,8 @@ _Screenshots:_
 
 <table align="center">
   <tr>
-    <td><img src="screenshots/website-dark.png" width="250"></td>
-    <td><img src="screenshots/website-light.png" width="250"></td>
+    <td><img src="screenshots/website-dark.png" width="300"></td>
+    <td><img src="screenshots/website-light.png" width="300"></td>
   </tr>
 </table>
 
